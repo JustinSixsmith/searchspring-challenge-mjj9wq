@@ -14,7 +14,7 @@ function attachAddToCart() {
     button.addEventListener("click", function () {
       button.textContent = "Added to Cart";
       cartQty++;
-      shoppingCart.textContent = qty;
+      shoppingCart.textContent = cartQty;
     });
   });
 }
