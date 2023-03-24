@@ -5,8 +5,8 @@
 }
 
 .add-to-cart-button {
-  background: blue;
-  border: 2px solid black;
+  background: #36309d;
+  border: 1px solid #515151;
   border-radius: 10px;
   color: white;
   padding: 0.2rem 0.5rem;
@@ -15,9 +15,5 @@
 
 .add-to-cart-button:hover,
 :focus {
-  background-color: dodgerblue;
-}
-
-.selected-btn {
-  background-color: dodgerblue;
+  background-color: #534f93;
 }
