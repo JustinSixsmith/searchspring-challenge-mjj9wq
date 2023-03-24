@@ -1,0 +1,23 @@
+/* All your styles can go here */
+.percent-off {
+  color: red;
+  font-weight: bold;
+}
+
+.add-to-cart-button {
+  background: blue;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  white-space: nowrap;
+}
+
+.add-to-cart-button:hover,
+:focus {
+  background-color: dodgerblue;
+}
+
+.selected-btn {
+  background-color: dodgerblue;
+}
